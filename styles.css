@@ -1,9 +1,11 @@
 body {
-  background-color: F8E8A6;
+  background-color: antiquewhite;
 }
 
 h1 {
   text-align: center;
+  font-size: 32px;
+  font-weight: bold;
 }
 
 p {
@@ -11,14 +13,10 @@ p {
 }
 
 .croissant-pic {
-  display: block;
-
+  border-radius: 10px;
   margin: 30px auto;
-}
-
-img {
   max-width: 100%;
-  height: auto;
+  display: block;
 }
 
 footer {
@@ -26,6 +24,6 @@ footer {
 }
 
 footer a {
-  color: greenyellow;
+  color: blueviolet;
   margin: 0 10px;
 }
