@@ -1,0 +1,9 @@
+h1 {
+  text-align: center;
+}
+
+.croissant-pic {
+  display: block;
+  max-width: 100%;
+  margin: 30px auto;
+}
